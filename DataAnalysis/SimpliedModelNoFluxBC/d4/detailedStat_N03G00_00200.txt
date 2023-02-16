@@ -1,0 +1,2899 @@
+CellRank:0
+    GrowthProgress:0.85
+    MembrGrowthProgress:20.4093
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:6.52088
+    CellPerim:9.56223
+    NeighborCellsOrdered:{ 158 124 4 }
+    NumberOfPointsInContactOrdered:{ 43 41 17 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:128
+    CellCenter:(9.43901,37.7608,0)
+
+CellRank:1
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:7.12491
+    CellPerim:10.0432
+    NeighborCellsOrdered:{ 211 158 139 }
+    NumberOfPointsInContactOrdered:{ 49 31 21 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(12.4879,41.6778,0)
+
+CellRank:2
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:7.64269
+    CellPerim:10.2806
+    NeighborCellsOrdered:{ 7 222 169 }
+    NumberOfPointsInContactOrdered:{ 29 43 27 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(20.0566,45.5337,0)
+
+CellRank:3
+    GrowthProgress:0.85
+    MembrGrowthProgress:181.816
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.56576
+    CellPerim:9.74503
+    NeighborCellsOrdered:{ 177 119 11 4 124 178 }
+    NumberOfPointsInContactOrdered:{ 10 17 13 9 39 40 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:130
+    CellCenter:(8.50663,32.6844,0)
+
+CellRank:4
+    GrowthProgress:0.85
+    MembrGrowthProgress:721.772
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.31625
+    CellPerim:8.79284
+    NeighborCellsOrdered:{ 3 11 12 5 158 0 124 }
+    NumberOfPointsInContactOrdered:{ 9 26 14 26 5 16 25 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:121
+    CellCenter:(11.079,34.8837,0)
+
+CellRank:5
+    GrowthProgress:0.85
+    MembrGrowthProgress:722.36
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.58197
+    CellPerim:7.85941
+    NeighborCellsOrdered:{ 139 158 4 12 144 }
+    NumberOfPointsInContactOrdered:{ 18 27 25 19 30 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:119
+    CellCenter:(13.1522,36.3786,0)
+
+CellRank:6
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.01169
+    CellPerim:9.5566
+    NeighborCellsOrdered:{ 211 139 144 13 140 204 169 }
+    NumberOfPointsInContactOrdered:{ 24 27 17 14 39 4 9 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(16.9947,39.122,0)
+
+CellRank:7
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:7.04281
+    CellPerim:9.76549
+    NeighborCellsOrdered:{ 8 2 169 204 145 }
+    NumberOfPointsInContactOrdered:{ 40 27 14 21 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(22.3139,43.5339,0)
+
+CellRank:8
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.84319
+    CellPerim:9.45974
+    NeighborCellsOrdered:{ 7 145 16 9 141 }
+    NumberOfPointsInContactOrdered:{ 38 19 8 25 43 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(24.8602,43.9068,0)
+
+CellRank:9
+    GrowthProgress:0.85
+    MembrGrowthProgress:476.69
+    IsBoundrayCell:0
+    NumOfNeighbors:4
+    CellArea:5.50591
+    CellPerim:8.87274
+    NeighborCellsOrdered:{ 141 8 16 171 }
+    NumberOfPointsInContactOrdered:{ 27 25 33 43 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:128
+    CellCenter:(27.3002,43.004,0)
+
+CellRank:10
+    GrowthProgress:0.85
+    MembrGrowthProgress:478.134
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.39817
+    CellPerim:9.80389
+    NeighborCellsOrdered:{ 177 114 18 126 19 }
+    NumberOfPointsInContactOrdered:{ 45 38 7 21 12 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:130
+    CellCenter:(6.66792,27.1116,0)
+
+CellRank:11
+    GrowthProgress:0.85
+    MembrGrowthProgress:722.101
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.89734
+    CellPerim:9.06542
+    NeighborCellsOrdered:{ 185 12 4 3 119 }
+    NumberOfPointsInContactOrdered:{ 27 33 26 13 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:130
+    CellCenter:(11.6957,32.1388,0)
+
+CellRank:12
+    GrowthProgress:0.85
+    MembrGrowthProgress:621.9
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:3.93662
+    CellPerim:8.05055
+    NeighborCellsOrdered:{ 144 5 4 11 185 193 }
+    NumberOfPointsInContactOrdered:{ 7 17 14 30 4 39 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(13.3499,33.8201,0)
+
+CellRank:13
+    GrowthProgress:0.85
+    MembrGrowthProgress:589.397
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.56132
+    CellPerim:8.811
+    NeighborCellsOrdered:{ 22 14 140 6 144 193 190 }
+    NumberOfPointsInContactOrdered:{ 15 32 5 13 32 4 22 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:123
+    CellCenter:(17.5683,35.8932,0)
+
+CellRank:14
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.31051
+    CellPerim:9.47878
+    NeighborCellsOrdered:{ 145 140 13 22 111 206 }
+    NumberOfPointsInContactOrdered:{ 4 39 34 10 21 26 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(19.6384,37.2751,0)
+
+CellRank:15
+    GrowthProgress:0.85
+    MembrGrowthProgress:609.097
+    IsBoundrayCell:0
+    NumOfNeighbors:4
+    CellArea:3.97723
+    CellPerim:7.44186
+    NeighborCellsOrdered:{ 16 145 206 194 }
+    NumberOfPointsInContactOrdered:{ 19 37 23 29 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:108
+    CellCenter:(24.0256,40.0572,0)
+
+CellRank:16
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:9
+    CellArea:5.48721
+    CellPerim:9.82108
+    NeighborCellsOrdered:{ 9 8 145 15 194 24 149 125 171 }
+    NumberOfPointsInContactOrdered:{ 30 8 5 20 23 16 4 23 5 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(26.9666,40.7192,0)
+
+CellRank:17
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:5
+    CellArea:6.91656
+    CellPerim:10.1947
+    NeighborCellsOrdered:{ 171 25 26 134 137 }
+    NumberOfPointsInContactOrdered:{ 10 22 21 25 43 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(33.4056,44.2657,0)
+
+CellRank:18
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.61921
+    CellPerim:10.1137
+    NeighborCellsOrdered:{ 114 27 28 126 10 }
+    NumberOfPointsInContactOrdered:{ 43 34 10 34 7 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(5.97877,23.3501,0)
+
+CellRank:19
+    GrowthProgress:0.85
+    MembrGrowthProgress:464.996
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.98487
+    CellPerim:9.09399
+    NeighborCellsOrdered:{ 162 29 20 119 177 10 126 }
+    NumberOfPointsInContactOrdered:{ 15 20 20 17 12 11 27 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:122
+    CellCenter:(10.0577,26.7588,0)
+
+CellRank:20
+    GrowthProgress:0.85
+    MembrGrowthProgress:690.269
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.6577
+    CellPerim:8.22494
+    NeighborCellsOrdered:{ 119 19 29 100 185 }
+    NumberOfPointsInContactOrdered:{ 19 20 29 12 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(12.2514,28.0927,0)
+
+CellRank:21
+    GrowthProgress:0.85
+    MembrGrowthProgress:290.24
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.35012
+    CellPerim:9.06358
+    NeighborCellsOrdered:{ 100 148 103 22 190 120 }
+    NumberOfPointsInContactOrdered:{ 14 23 23 14 13 35 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:122
+    CellCenter:(17.7263,30.4851,0)
+
+CellRank:22
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.7429
+    CellPerim:9.26527
+    NeighborCellsOrdered:{ 174 111 14 13 190 21 103 }
+    NumberOfPointsInContactOrdered:{ 33 21 10 15 28 14 13 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(19.3865,33.7241,0)
+
+CellRank:23
+    GrowthProgress:0.85
+    MembrGrowthProgress:282.266
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.28752
+    CellPerim:8.40355
+    NeighborCellsOrdered:{ 24 194 206 111 219 215 }
+    NumberOfPointsInContactOrdered:{ 6 29 15 17 18 31 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:116
+    CellCenter:(24.302,36.8195,0)
+
+CellRank:24
+    GrowthProgress:0.85
+    MembrGrowthProgress:479.542
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.40117
+    CellPerim:8.02323
+    NeighborCellsOrdered:{ 16 194 23 215 33 149 }
+    NumberOfPointsInContactOrdered:{ 17 24 6 20 11 39 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:117
+    CellCenter:(27.6156,37.9954,0)
+
+CellRank:25
+    GrowthProgress:0.85
+    MembrGrowthProgress:734.264
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.77543
+    CellPerim:8.40563
+    NeighborCellsOrdered:{ 182 26 17 171 125 147 35 }
+    NumberOfPointsInContactOrdered:{ 15 23 20 10 23 23 5 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:119
+    CellCenter:(32.295,41.2839,0)
+
+CellRank:26
+    GrowthProgress:0.85
+    MembrGrowthProgress:717.029
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.50701
+    CellPerim:7.97035
+    NeighborCellsOrdered:{ 36 134 17 25 182 }
+    NumberOfPointsInContactOrdered:{ 6 31 21 23 29 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:110
+    CellCenter:(34.5604,42.0208,0)
+
+CellRank:27
+    GrowthProgress:0.85
+    MembrGrowthProgress:315.407
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.38654
+    CellPerim:9.54878
+    NeighborCellsOrdered:{ 37 38 28 18 166 }
+    NumberOfPointsInContactOrdered:{ 14 15 17 34 43 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:129
+    CellCenter:(6.75102,20.6999,0)
+
+CellRank:28
+    GrowthProgress:0.85
+    MembrGrowthProgress:558.168
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.17349
+    CellPerim:8.41046
+    NeighborCellsOrdered:{ 126 18 27 38 162 }
+    NumberOfPointsInContactOrdered:{ 29 10 17 31 27 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(9.00113,22.3418,0)
+
+CellRank:29
+    GrowthProgress:0.85
+    MembrGrowthProgress:784.181
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.47076
+    CellPerim:8.6686
+    NeighborCellsOrdered:{ 100 20 19 162 112 }
+    NumberOfPointsInContactOrdered:{ 17 30 20 17 38 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:122
+    CellCenter:(12.8672,25.8665,0)
+
+CellRank:30
+    GrowthProgress:0.85
+    MembrGrowthProgress:258.527
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.84575
+    CellPerim:9.72846
+    NeighborCellsOrdered:{ 112 201 105 41 31 148 100 }
+    NumberOfPointsInContactOrdered:{ 14 25 13 19 14 19 26 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:130
+    CellCenter:(17.6971,25.1809,0)
+
+CellRank:31
+    GrowthProgress:0.85
+    MembrGrowthProgress:139.618
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.7418
+    CellPerim:9.09237
+    NeighborCellsOrdered:{ 30 41 42 156 128 103 148 }
+    NumberOfPointsInContactOrdered:{ 14 16 19 8 24 8 29 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:118
+    CellCenter:(20.5353,26.8776,0)
+
+CellRank:32
+    GrowthProgress:0.85
+    MembrGrowthProgress:28.92
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.12463
+    CellPerim:8.37912
+    NeighborCellsOrdered:{ 209 219 174 103 128 43 214 }
+    NumberOfPointsInContactOrdered:{ 16 8 21 15 28 10 17 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:115
+    CellCenter:(23.1591,31.5447,0)
+
+CellRank:33
+    GrowthProgress:0.85
+    MembrGrowthProgress:285.261
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.80671
+    CellPerim:8.66839
+    NeighborCellsOrdered:{ 34 149 24 215 209 214 180 }
+    NumberOfPointsInContactOrdered:{ 18 15 11 32 9 11 27 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:123
+    CellCenter:(28.0489,34.7747,0)
+
+CellRank:34
+    GrowthProgress:0.85
+    MembrGrowthProgress:716.643
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.64965
+    CellPerim:7.92849
+    NeighborCellsOrdered:{ 149 33 180 44 199 150 }
+    NumberOfPointsInContactOrdered:{ 12 19 17 23 16 25 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(30.3283,34.2769,0)
+
+CellRank:35
+    GrowthProgress:0.85
+    MembrGrowthProgress:393.282
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:3.94679
+    CellPerim:8.41989
+    NeighborCellsOrdered:{ 182 25 147 150 199 164 }
+    NumberOfPointsInContactOrdered:{ 21 5 18 30 10 31 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:115
+    CellCenter:(33.2987,37.6558,0)
+
+CellRank:36
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.77879
+    CellPerim:10.3591
+    NeighborCellsOrdered:{ 182 164 46 47 131 134 26 }
+    NumberOfPointsInContactOrdered:{ 25 24 4 6 46 23 6 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(36.6591,39.5931,0)
+
+CellRank:37
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.8074
+    CellPerim:9.86827
+    NeighborCellsOrdered:{ 38 27 166 101 110 }
+    NumberOfPointsInContactOrdered:{ 27 14 35 40 11 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(8.35329,17.5409,0)
+
+CellRank:38
+    GrowthProgress:0.85
+    MembrGrowthProgress:857.857
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.05739
+    CellPerim:9.40877
+    NeighborCellsOrdered:{ 39 162 28 27 37 110 }
+    NumberOfPointsInContactOrdered:{ 22 5 30 15 27 26 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:125
+    CellCenter:(9.97584,20.0331,0)
+
+CellRank:39
+    GrowthProgress:0.85
+    MembrGrowthProgress:631.802
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.24869
+    CellPerim:9.01975
+    NeighborCellsOrdered:{ 112 162 38 110 163 40 }
+    NumberOfPointsInContactOrdered:{ 21 28 21 6 36 8 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:120
+    CellCenter:(12.5103,21.6043,0)
+
+CellRank:40
+    GrowthProgress:0.85
+    MembrGrowthProgress:231.503
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.66374
+    CellPerim:8.50784
+    NeighborCellsOrdered:{ 112 39 163 50 188 201 }
+    NumberOfPointsInContactOrdered:{ 17 8 21 20 11 35 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(15.584,21.3131,0)
+
+CellRank:41
+    GrowthProgress:0.85
+    MembrGrowthProgress:617.647
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.10323
+    CellPerim:8.46743
+    NeighborCellsOrdered:{ 52 122 42 31 30 105 }
+    NumberOfPointsInContactOrdered:{ 14 16 23 15 19 27 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(20.6286,23.9717,0)
+
+CellRank:42
+    GrowthProgress:0.85
+    MembrGrowthProgress:617.496
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.19621
+    CellPerim:7.94697
+    NeighborCellsOrdered:{ 31 41 122 168 156 }
+    NumberOfPointsInContactOrdered:{ 18 22 32 8 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(22.5412,25.5007,0)
+
+CellRank:43
+    GrowthProgress:0.85
+    MembrGrowthProgress:31.1485
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.18307
+    CellPerim:9.64902
+    NeighborCellsOrdered:{ 104 180 214 32 128 156 184 }
+    NumberOfPointsInContactOrdered:{ 10 13 30 11 13 14 33 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:124
+    CellCenter:(25.4568,29.9617,0)
+
+CellRank:44
+    GrowthProgress:0.85
+    MembrGrowthProgress:652.765
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.11448
+    CellPerim:8.32081
+    NeighborCellsOrdered:{ 55 45 199 34 180 104 }
+    NumberOfPointsInContactOrdered:{ 15 18 15 23 16 29 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:116
+    CellCenter:(30.9698,31.7501,0)
+
+CellRank:45
+    GrowthProgress:0.85
+    MembrGrowthProgress:255.658
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.84362
+    CellPerim:8.73626
+    NeighborCellsOrdered:{ 44 55 154 135 198 46 199 }
+    NumberOfPointsInContactOrdered:{ 17 8 18 15 19 5 30 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(33.4334,31.9095,0)
+
+CellRank:46
+    GrowthProgress:0.85
+    MembrGrowthProgress:251.885
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.14552
+    CellPerim:8.21683
+    NeighborCellsOrdered:{ 47 36 164 199 45 198 }
+    NumberOfPointsInContactOrdered:{ 30 4 31 14 5 26 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:110
+    CellCenter:(35.5037,35.0889,0)
+
+CellRank:47
+    GrowthProgress:0.85
+    MembrGrowthProgress:647.944
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.89548
+    CellPerim:8.97731
+    NeighborCellsOrdered:{ 46 198 56 113 57 131 36 }
+    NumberOfPointsInContactOrdered:{ 31 16 9 7 33 25 6 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:127
+    CellCenter:(37.5728,35.1812,0)
+
+CellRank:48
+    GrowthProgress:0.85
+    MembrGrowthProgress:742.352
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.93339
+    CellPerim:8.51127
+    NeighborCellsOrdered:{ 101 179 58 59 143 }
+    NumberOfPointsInContactOrdered:{ 17 31 23 19 32 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:122
+    CellCenter:(11.4259,12.4691,0)
+
+CellRank:49
+    GrowthProgress:0.85
+    MembrGrowthProgress:770.561
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.34341
+    CellPerim:7.97062
+    NeighborCellsOrdered:{ 50 163 110 143 173 }
+    NumberOfPointsInContactOrdered:{ 18 19 29 6 40 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(14.0259,17.2235,0)
+
+CellRank:50
+    GrowthProgress:0.85
+    MembrGrowthProgress:684.371
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.15876
+    CellPerim:8.44019
+    NeighborCellsOrdered:{ 188 40 163 49 173 155 }
+    NumberOfPointsInContactOrdered:{ 20 20 24 18 5 31 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:118
+    CellCenter:(16.2836,18.7754,0)
+
+CellRank:51
+    GrowthProgress:0.85
+    MembrGrowthProgress:491.342
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.55789
+    CellPerim:9.23223
+    NeighborCellsOrdered:{ 61 186 62 52 105 188 155 }
+    NumberOfPointsInContactOrdered:{ 27 11 12 27 8 27 5 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:117
+    CellCenter:(21.6038,19.3978,0)
+
+CellRank:52
+    GrowthProgress:0.85
+    MembrGrowthProgress:617.804
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.80503
+    CellPerim:9.41386
+    NeighborCellsOrdered:{ 41 105 51 62 208 202 122 }
+    NumberOfPointsInContactOrdered:{ 14 16 27 21 15 6 25 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:124
+    CellCenter:(22.8503,21.3913,0)
+
+CellRank:53
+    GrowthProgress:0.85
+    MembrGrowthProgress:795.936
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.00119
+    CellPerim:8.19177
+    NeighborCellsOrdered:{ 202 63 115 54 168 }
+    NumberOfPointsInContactOrdered:{ 18 21 23 21 29 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(27.9718,24.3061,0)
+
+CellRank:54
+    GrowthProgress:0.85
+    MembrGrowthProgress:822.522
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.86728
+    CellPerim:8.30084
+    NeighborCellsOrdered:{ 53 115 64 65 55 151 168 }
+    NumberOfPointsInContactOrdered:{ 20 13 15 25 6 25 5 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:109
+    CellCenter:(30.2313,25.588,0)
+
+CellRank:55
+    GrowthProgress:0.85
+    MembrGrowthProgress:486.613
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.24016
+    CellPerim:9.04271
+    NeighborCellsOrdered:{ 45 44 104 151 54 65 154 }
+    NumberOfPointsInContactOrdered:{ 7 16 19 22 6 21 32 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:123
+    CellCenter:(31.4598,28.7319,0)
+
+CellRank:56
+    GrowthProgress:0.85
+    MembrGrowthProgress:670.635
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.51506
+    CellPerim:8.04933
+    NeighborCellsOrdered:{ 66 67 113 47 198 135 }
+    NumberOfPointsInContactOrdered:{ 8 19 27 8 21 28 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(37.6948,31.683,0)
+
+CellRank:57
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:7.16331
+    CellPerim:9.84094
+    NeighborCellsOrdered:{ 113 131 47 }
+    NumberOfPointsInContactOrdered:{ 40 28 35 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(40.0455,35.3186,0)
+
+CellRank:58
+    GrowthProgress:0.85
+    MembrGrowthProgress:251.558
+    IsBoundrayCell:1
+    NumOfNeighbors:5
+    CellArea:6.57704
+    CellPerim:9.81166
+    NeighborCellsOrdered:{ 179 68 146 59 48 }
+    NumberOfPointsInContactOrdered:{ 31 41 6 13 24 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:130
+    CellCenter:(10.4114,10.0027,0)
+
+CellRank:59
+    GrowthProgress:0.85
+    MembrGrowthProgress:539.237
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.03902
+    CellPerim:9.14237
+    NeighborCellsOrdered:{ 143 48 58 146 159 69 116 }
+    NumberOfPointsInContactOrdered:{ 8 19 13 20 20 11 31 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:122
+    CellCenter:(13.7917,10.8883,0)
+
+CellRank:60
+    GrowthProgress:0.85
+    MembrGrowthProgress:840.853
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.49375
+    CellPerim:7.96862
+    NeighborCellsOrdered:{ 161 155 173 116 142 }
+    NumberOfPointsInContactOrdered:{ 13 22 30 15 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(16.9942,15.1891,0)
+
+CellRank:61
+    GrowthProgress:0.85
+    MembrGrowthProgress:773.877
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.82935
+    CellPerim:8.28421
+    NeighborCellsOrdered:{ 129 186 51 155 161 }
+    NumberOfPointsInContactOrdered:{ 18 27 27 13 24 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:109
+    CellCenter:(21.5935,17.1638,0)
+
+CellRank:62
+    GrowthProgress:0.85
+    MembrGrowthProgress:602.009
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.67004
+    CellPerim:7.98937
+    NeighborCellsOrdered:{ 72 208 52 51 186 }
+    NumberOfPointsInContactOrdered:{ 22 29 20 11 28 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:110
+    CellCenter:(24.7489,19.2308,0)
+
+CellRank:63
+    GrowthProgress:0.85
+    MembrGrowthProgress:463.64
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.42672
+    CellPerim:7.88532
+    NeighborCellsOrdered:{ 157 115 53 202 208 }
+    NumberOfPointsInContactOrdered:{ 24 19 21 11 33 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:108
+    CellCenter:(27.6383,21.829,0)
+
+CellRank:64
+    GrowthProgress:0.85
+    MembrGrowthProgress:715.116
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.86279
+    CellPerim:8.9234
+    NeighborCellsOrdered:{ 73 117 74 136 65 54 115 }
+    NumberOfPointsInContactOrdered:{ 18 16 18 14 13 16 27 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:122
+    CellCenter:(32.2945,23.3484,0)
+
+CellRank:65
+    GrowthProgress:0.85
+    MembrGrowthProgress:639.812
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.99051
+    CellPerim:8.29551
+    NeighborCellsOrdered:{ 138 154 55 54 64 136 }
+    NumberOfPointsInContactOrdered:{ 12 12 21 25 13 30 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:113
+    CellCenter:(32.6598,26.4138,0)
+
+CellRank:66
+    GrowthProgress:0.85
+    MembrGrowthProgress:848.158
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.04207
+    CellPerim:8.62854
+    NeighborCellsOrdered:{ 75 160 67 56 135 138 }
+    NumberOfPointsInContactOrdered:{ 19 14 31 9 12 30 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:115
+    CellCenter:(37.711,28.1789,0)
+
+CellRank:67
+    GrowthProgress:0.85
+    MembrGrowthProgress:763.943
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.31358
+    CellPerim:8.09576
+    NeighborCellsOrdered:{ 113 56 66 160 167 }
+    NumberOfPointsInContactOrdered:{ 20 20 30 7 34 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(39.1807,29.5235,0)
+
+CellRank:68
+    GrowthProgress:0.85
+    MembrGrowthProgress:714.36
+    IsBoundrayCell:1
+    NumOfNeighbors:2
+    CellArea:6.89197
+    CellPerim:9.72711
+    NeighborCellsOrdered:{ 58 146 }
+    NumberOfPointsInContactOrdered:{ 42 47 0 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:129
+    CellCenter:(11.2359,7.40457,0)
+
+CellRank:69
+    GrowthProgress:0.85
+    MembrGrowthProgress:123.934
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.865
+    CellPerim:8.23608
+    NeighborCellsOrdered:{ 200 70 142 116 59 159 }
+    NumberOfPointsInContactOrdered:{ 13 21 21 12 11 32 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:110
+    CellCenter:(17.0281,11.0295,0)
+
+CellRank:70
+    GrowthProgress:0.85
+    MembrGrowthProgress:640.342
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.61489
+    CellPerim:8.05733
+    NeighborCellsOrdered:{ 142 69 200 80 191 }
+    NumberOfPointsInContactOrdered:{ 20 21 27 14 28 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:110
+    CellCenter:(19.6427,11.6836,0)
+
+CellRank:71
+    GrowthProgress:0.85
+    MembrGrowthProgress:14.6667
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.32187
+    CellPerim:9.62493
+    NeighborCellsOrdered:{ 106 189 205 72 186 129 }
+    NumberOfPointsInContactOrdered:{ 27 13 25 8 20 33 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:126
+    CellCenter:(25.551,14.3258,0)
+
+CellRank:72
+    GrowthProgress:0.85
+    MembrGrowthProgress:32.889
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.29329
+    CellPerim:8.73957
+    NeighborCellsOrdered:{ 165 157 208 62 186 71 205 }
+    NumberOfPointsInContactOrdered:{ 11 21 6 22 17 8 28 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:113
+    CellCenter:(26.6945,17.4788,0)
+
+CellRank:73
+    GrowthProgress:0.85
+    MembrGrowthProgress:720.624
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.09662
+    CellPerim:8.32314
+    NeighborCellsOrdered:{ 117 64 115 157 175 }
+    NumberOfPointsInContactOrdered:{ 25 18 22 20 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:116
+    CellCenter:(31.4724,20.3984,0)
+
+CellRank:74
+    GrowthProgress:0.85
+    MembrGrowthProgress:774.068
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.69531
+    CellPerim:9.03538
+    NeighborCellsOrdered:{ 84 183 176 75 136 64 117 }
+    NumberOfPointsInContactOrdered:{ 13 8 21 8 28 18 27 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:123
+    CellCenter:(35.2934,22.8471,0)
+
+CellRank:75
+    GrowthProgress:0.85
+    MembrGrowthProgress:719.801
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.95234
+    CellPerim:8.33461
+    NeighborCellsOrdered:{ 160 66 138 136 74 176 }
+    NumberOfPointsInContactOrdered:{ 18 19 14 22 8 28 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:109
+    CellCenter:(37.2032,25.6144,0)
+
+CellRank:76
+    GrowthProgress:0.85
+    MembrGrowthProgress:815.228
+    IsBoundrayCell:0
+    NumOfNeighbors:4
+    CellArea:4.52741
+    CellPerim:7.8033
+    NeighborCellsOrdered:{ 86 132 167 160 }
+    NumberOfPointsInContactOrdered:{ 32 24 20 32 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:108
+    CellCenter:(42.089,26.4232,0)
+
+CellRank:77
+    GrowthProgress:0.85
+    MembrGrowthProgress:163.805
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:7.80389
+    CellPerim:10.3302
+    NeighborCellsOrdered:{ 132 113 167 }
+    NumberOfPointsInContactOrdered:{ 30 38 29 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:133
+    CellCenter:(42.5623,31.2,0)
+
+CellRank:78
+    GrowthProgress:0.85
+    MembrGrowthProgress:268.121
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.07352
+    CellPerim:8.32852
+    NeighborCellsOrdered:{ 102 79 200 159 133 }
+    NumberOfPointsInContactOrdered:{ 23 19 28 18 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:119
+    CellCenter:(18.8218,7.93947,0)
+
+CellRank:79
+    GrowthProgress:0.85
+    MembrGrowthProgress:244.548
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.90647
+    CellPerim:8.2994
+    NeighborCellsOrdered:{ 78 102 88 170 200 }
+    NumberOfPointsInContactOrdered:{ 19 25 23 23 23 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:113
+    CellCenter:(21.9119,7.76963,0)
+
+CellRank:80
+    GrowthProgress:0.85
+    MembrGrowthProgress:259.402
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.51978
+    CellPerim:9.44452
+    NeighborCellsOrdered:{ 129 191 70 200 170 106 }
+    NumberOfPointsInContactOrdered:{ 17 20 14 21 30 28 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:130
+    CellCenter:(22.8561,11.2218,0)
+
+CellRank:81
+    GrowthProgress:0.85
+    MembrGrowthProgress:517.145
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.13494
+    CellPerim:8.34806
+    NeighborCellsOrdered:{ 189 106 152 210 196 }
+    NumberOfPointsInContactOrdered:{ 34 15 25 26 12 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(28.7928,11.0617,0)
+
+CellRank:82
+    GrowthProgress:0.85
+    MembrGrowthProgress:541.73
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.96135
+    CellPerim:8.22338
+    NeighborCellsOrdered:{ 83 175 165 189 196 }
+    NumberOfPointsInContactOrdered:{ 21 19 32 10 32 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(31.4457,15.1984,0)
+
+CellRank:83
+    GrowthProgress:0.85
+    MembrGrowthProgress:476.893
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.72919
+    CellPerim:8.89101
+    NeighborCellsOrdered:{ 175 82 196 91 107 123 172 }
+    NumberOfPointsInContactOrdered:{ 14 21 6 19 17 11 26 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(33.9895,15.6652,0)
+
+CellRank:84
+    GrowthProgress:0.85
+    MembrGrowthProgress:684.08
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.89301
+    CellPerim:8.17867
+    NeighborCellsOrdered:{ 74 117 172 92 183 }
+    NumberOfPointsInContactOrdered:{ 13 19 21 29 30 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(36.4373,20.0987,0)
+
+CellRank:85
+    GrowthProgress:0.85
+    MembrGrowthProgress:254.772
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.04147
+    CellPerim:8.3274
+    NeighborCellsOrdered:{ 86 160 176 183 153 108 }
+    NumberOfPointsInContactOrdered:{ 30 17 18 16 26 6 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:113
+    CellCenter:(40.7325,23.0222,0)
+
+CellRank:86
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.28915
+    CellPerim:10.0372
+    NeighborCellsOrdered:{ 132 76 160 85 108 }
+    NumberOfPointsInContactOrdered:{ 20 31 4 30 43 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(43.3031,24.451,0)
+
+CellRank:87
+    GrowthProgress:0.897051
+    MembrGrowthProgress:0.530843
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:10.9027
+    CellPerim:12.1971
+    NeighborCellsOrdered:{ 220 195 95 88 102 221 }
+    NumberOfPointsInContactOrdered:{ 27 10 16 38 13 27 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:131
+    CellCenter:(23.3988,3.69243,0)
+
+CellRank:88
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.13169
+    CellPerim:11.0401
+    NeighborCellsOrdered:{ 79 102 87 95 213 212 170 }
+    NumberOfPointsInContactOrdered:{ 23 7 42 5 24 11 22 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(24.6131,5.89585,0)
+
+CellRank:89
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.51932
+    CellPerim:11.1634
+    NeighborCellsOrdered:{ 213 95 197 96 90 212 }
+    NumberOfPointsInContactOrdered:{ 43 9 15 36 13 20 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(29.4584,3.50014,0)
+
+CellRank:90
+    GrowthProgress:0.85
+    MembrGrowthProgress:210.244
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.92789
+    CellPerim:10.765
+    NeighborCellsOrdered:{ 210 212 89 96 203 121 }
+    NumberOfPointsInContactOrdered:{ 32 13 13 22 31 21 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:132
+    CellCenter:(31.4909,7.01001,0)
+
+CellRank:91
+    GrowthProgress:0.85
+    MembrGrowthProgress:612.942
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.59622
+    CellPerim:9.59162
+    NeighborCellsOrdered:{ 83 196 121 97 127 107 }
+    NumberOfPointsInContactOrdered:{ 20 26 19 14 12 33 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:124
+    CellCenter:(34.3955,12.456,0)
+
+CellRank:92
+    GrowthProgress:0.85
+    MembrGrowthProgress:796.809
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.82759
+    CellPerim:8.68522
+    NeighborCellsOrdered:{ 93 153 183 84 172 123 }
+    NumberOfPointsInContactOrdered:{ 28 12 10 27 12 28 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:117
+    CellCenter:(38.1266,18.6065,0)
+
+CellRank:93
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.32044
+    CellPerim:9.27826
+    NeighborCellsOrdered:{ 118 94 181 153 92 123 }
+    NumberOfPointsInContactOrdered:{ 37 5 32 23 28 9 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(40.6189,18.1447,0)
+
+CellRank:94
+    GrowthProgress:0.85
+    MembrGrowthProgress:152.816
+    IsBoundrayCell:1
+    NumOfNeighbors:5
+    CellArea:6.40931
+    CellPerim:9.9641
+    NeighborCellsOrdered:{ 216 181 93 118 217 }
+    NumberOfPointsInContactOrdered:{ 45 36 5 16 5 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:128
+    CellCenter:(44.1837,16.698,0)
+
+CellRank:95
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:7.15502
+    CellPerim:12.2615
+    NeighborCellsOrdered:{ 197 89 187 213 88 87 195 }
+    NumberOfPointsInContactOrdered:{ 3 7 64 27 5 14 16 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(26.4239,1.90918,0)
+
+CellRank:96
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:7.65563
+    CellPerim:10.3363
+    NeighborCellsOrdered:{ 130 203 90 89 197 }
+    NumberOfPointsInContactOrdered:{ 17 17 22 38 42 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(31.8186,4.06997,0)
+
+CellRank:97
+    GrowthProgress:0.85
+    MembrGrowthProgress:518.365
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:3.87905
+    CellPerim:8.31424
+    NeighborCellsOrdered:{ 127 91 121 203 130 }
+    NumberOfPointsInContactOrdered:{ 41 12 35 17 6 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(35.1589,9.18868,0)
+
+CellRank:98
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.48406
+    CellPerim:10.4144
+    NeighborCellsOrdered:{ 192 118 123 107 127 109 218 }
+    NumberOfPointsInContactOrdered:{ 40 9 9 32 22 17 5 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(38.5089,12.1948,0)
+
+CellRank:99
+    GrowthProgress:0.85
+    MembrGrowthProgress:134.474
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:6.13907
+    CellPerim:9.08725
+    NeighborCellsOrdered:{ 218 217 192 }
+    NumberOfPointsInContactOrdered:{ 43 32 26 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:124
+    CellCenter:(42.2539,10.7626,0)
+
+CellRank:100
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:8
+    CellArea:7.76966
+    CellPerim:10.1497
+    NeighborCellsOrdered:{ 112 29 20 185 120 21 148 30 }
+    NumberOfPointsInContactOrdered:{ 11 18 13 16 15 14 21 26 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(15.5648,27.5661,0)
+
+CellRank:101
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.86329
+    CellPerim:9.77112
+    NeighborCellsOrdered:{ 110 143 48 179 37 }
+    NumberOfPointsInContactOrdered:{ 26 22 17 27 40 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(9.91309,15.3528,0)
+
+CellRank:102
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.92962
+    CellPerim:10.1674
+    NeighborCellsOrdered:{ 87 221 133 78 79 88 }
+    NumberOfPointsInContactOrdered:{ 13 40 24 24 26 7 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(20.128,5.85753,0)
+
+CellRank:103
+    GrowthProgress:0.85
+    MembrGrowthProgress:483.977
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.63595
+    CellPerim:9.58911
+    NeighborCellsOrdered:{ 174 32 128 31 148 21 22 }
+    NumberOfPointsInContactOrdered:{ 21 16 22 8 20 25 14 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:126
+    CellCenter:(20.1832,30.4597,0)
+
+CellRank:104
+    GrowthProgress:0.85
+    MembrGrowthProgress:683.074
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.07006
+    CellPerim:8.35479
+    NeighborCellsOrdered:{ 55 151 184 43 180 44 }
+    NumberOfPointsInContactOrdered:{ 21 19 17 10 20 29 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:116
+    CellCenter:(29.1566,29.8925,0)
+
+CellRank:105
+    GrowthProgress:0.85
+    MembrGrowthProgress:496.161
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.8641
+    CellPerim:9.27329
+    NeighborCellsOrdered:{ 52 51 188 201 30 41 }
+    NumberOfPointsInContactOrdered:{ 16 8 29 27 13 28 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:121
+    CellCenter:(19.4502,22.117,0)
+
+CellRank:106
+    GrowthProgress:0.85
+    MembrGrowthProgress:182.735
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.83353
+    CellPerim:9.82852
+    NeighborCellsOrdered:{ 129 71 189 81 152 170 80 }
+    NumberOfPointsInContactOrdered:{ 11 27 8 16 23 15 28 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:128
+    CellCenter:(25.7434,11.3405,0)
+
+CellRank:107
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.6368
+    CellPerim:9.76276
+    NeighborCellsOrdered:{ 83 123 98 127 91 }
+    NumberOfPointsInContactOrdered:{ 18 35 35 13 33 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(36.4842,13.7698,0)
+
+CellRank:108
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:4
+    CellArea:7.94769
+    CellPerim:11.1373
+    NeighborCellsOrdered:{ 86 181 153 85 }
+    NumberOfPointsInContactOrdered:{ 44 40 8 7 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(44.1557,21.8679,0)
+
+CellRank:109
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:4
+    CellArea:6.95052
+    CellPerim:9.98466
+    NeighborCellsOrdered:{ 218 130 127 98 }
+    NumberOfPointsInContactOrdered:{ 44 24 40 17 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(38.3362,8.25998,0)
+
+CellRank:110
+    GrowthProgress:0.85
+    MembrGrowthProgress:633.228
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.27933
+    CellPerim:9.57728
+    NeighborCellsOrdered:{ 163 49 143 101 37 38 39 }
+    NumberOfPointsInContactOrdered:{ 16 31 10 26 11 26 6 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:126
+    CellCenter:(11.5851,17.7003,0)
+
+CellRank:111
+    GrowthProgress:0.85
+    MembrGrowthProgress:285.057
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.6754
+    CellPerim:8.0262
+    NeighborCellsOrdered:{ 14 22 174 219 23 206 }
+    NumberOfPointsInContactOrdered:{ 22 20 14 19 17 22 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(21.4462,35.9098,0)
+
+CellRank:112
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.69214
+    CellPerim:9.95858
+    NeighborCellsOrdered:{ 100 30 201 40 39 162 29 }
+    NumberOfPointsInContactOrdered:{ 11 14 22 17 21 13 38 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(14.4169,24.054,0)
+
+CellRank:113
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.19664
+    CellPerim:9.84105
+    NeighborCellsOrdered:{ 57 77 167 67 56 47 }
+    NumberOfPointsInContactOrdered:{ 38 34 5 22 27 8 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(39.9378,32.3655,0)
+
+CellRank:114
+    GrowthProgress:0.85
+    MembrGrowthProgress:817.813
+    IsBoundrayCell:1
+    NumOfNeighbors:2
+    CellArea:6.58477
+    CellPerim:9.42997
+    NeighborCellsOrdered:{ 18 10 }
+    NumberOfPointsInContactOrdered:{ 44 38 0 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:124
+    CellCenter:(4.3821,25.5581,0)
+
+CellRank:115
+    GrowthProgress:0.85
+    MembrGrowthProgress:742.504
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.54119
+    CellPerim:8.80898
+    NeighborCellsOrdered:{ 73 157 63 53 54 64 }
+    NumberOfPointsInContactOrdered:{ 22 13 20 23 14 27 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:119
+    CellCenter:(29.9447,22.5529,0)
+
+CellRank:116
+    GrowthProgress:0.85
+    MembrGrowthProgress:845.679
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.78824
+    CellPerim:8.02652
+    NeighborCellsOrdered:{ 143 173 60 142 69 59 }
+    NumberOfPointsInContactOrdered:{ 23 18 15 19 12 29 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:116
+    CellCenter:(15.0324,13.1188,0)
+
+CellRank:117
+    GrowthProgress:0.85
+    MembrGrowthProgress:708.404
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.47459
+    CellPerim:8.68697
+    NeighborCellsOrdered:{ 84 172 175 73 64 74 }
+    NumberOfPointsInContactOrdered:{ 19 21 11 25 16 27 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:119
+    CellCenter:(33.8942,20.5935,0)
+
+CellRank:118
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.93508
+    CellPerim:9.55119
+    NeighborCellsOrdered:{ 93 94 217 192 98 123 }
+    NumberOfPointsInContactOrdered:{ 39 17 29 12 8 29 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(40.4893,15.9119,0)
+
+CellRank:119
+    GrowthProgress:0.85
+    MembrGrowthProgress:250.129
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.86453
+    CellPerim:9.12993
+    NeighborCellsOrdered:{ 185 20 19 177 3 11 }
+    NumberOfPointsInContactOrdered:{ 8 19 17 32 17 31 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:124
+    CellCenter:(10.3061,30.0132,0)
+
+CellRank:120
+    GrowthProgress:0.85
+    MembrGrowthProgress:760.446
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.95618
+    CellPerim:8.34714
+    NeighborCellsOrdered:{ 100 185 193 190 21 }
+    NumberOfPointsInContactOrdered:{ 15 26 24 15 35 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:115
+    CellCenter:(15.6727,30.8834,0)
+
+CellRank:121
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.12273
+    CellPerim:10.2434
+    NeighborCellsOrdered:{ 210 196 91 97 203 90 }
+    NumberOfPointsInContactOrdered:{ 25 17 18 43 6 25 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(33.0949,10.0064,0)
+
+CellRank:122
+    GrowthProgress:0.85
+    MembrGrowthProgress:512.302
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.12997
+    CellPerim:7.96297
+    NeighborCellsOrdered:{ 42 41 52 202 168 }
+    NumberOfPointsInContactOrdered:{ 31 16 26 31 4 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:108
+    CellCenter:(23.2995,23.566,0)
+
+CellRank:123
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.65032
+    CellPerim:10.0054
+    NeighborCellsOrdered:{ 118 98 107 83 172 92 93 }
+    NumberOfPointsInContactOrdered:{ 29 9 35 11 14 29 9 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(37.4291,16.1717,0)
+
+CellRank:124
+    GrowthProgress:0.85
+    MembrGrowthProgress:113.371
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:6.43325
+    CellPerim:9.42863
+    NeighborCellsOrdered:{ 3 0 4 }
+    NumberOfPointsInContactOrdered:{ 40 41 26 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:128
+    CellCenter:(8.35724,35.3482,0)
+
+CellRank:125
+    GrowthProgress:0.85
+    MembrGrowthProgress:830.7
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.68827
+    CellPerim:8.00455
+    NeighborCellsOrdered:{ 171 25 147 149 16 }
+    NumberOfPointsInContactOrdered:{ 28 24 23 16 23 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(29.9073,40.7459,0)
+
+CellRank:126
+    GrowthProgress:0.85
+    MembrGrowthProgress:829.492
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.46636
+    CellPerim:8.70242
+    NeighborCellsOrdered:{ 28 18 10 19 162 }
+    NumberOfPointsInContactOrdered:{ 29 34 21 27 9 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:120
+    CellCenter:(8.34498,24.7975,0)
+
+CellRank:127
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.2926
+    CellPerim:9.97379
+    NeighborCellsOrdered:{ 91 107 98 109 130 97 }
+    NumberOfPointsInContactOrdered:{ 11 13 22 38 6 44 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(36.6915,10.2117,0)
+
+CellRank:128
+    GrowthProgress:0.85
+    MembrGrowthProgress:483.597
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.76376
+    CellPerim:8.06223
+    NeighborCellsOrdered:{ 43 156 31 103 32 }
+    NumberOfPointsInContactOrdered:{ 13 28 23 21 28 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:113
+    CellCenter:(22.375,29.1128,0)
+
+CellRank:129
+    GrowthProgress:0.85
+    MembrGrowthProgress:266.364
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.33424
+    CellPerim:9.76595
+    NeighborCellsOrdered:{ 106 80 191 161 61 186 71 }
+    NumberOfPointsInContactOrdered:{ 11 17 25 15 19 11 33 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:131
+    CellCenter:(23.0573,14.4127,0)
+
+CellRank:130
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:6
+    CellArea:8.54788
+    CellPerim:12.0983
+    NeighborCellsOrdered:{ 203 97 127 109 197 96 }
+    NumberOfPointsInContactOrdered:{ 36 6 6 24 17 17 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(35.6228,5.09824,0)
+
+CellRank:131
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:7.306
+    CellPerim:9.90013
+    NeighborCellsOrdered:{ 36 57 47 }
+    NumberOfPointsInContactOrdered:{ 52 27 26 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(38.5188,38.2146,0)
+
+CellRank:132
+    GrowthProgress:0.85
+    MembrGrowthProgress:551.882
+    IsBoundrayCell:1
+    NumOfNeighbors:4
+    CellArea:7.56361
+    CellPerim:10.2138
+    NeighborCellsOrdered:{ 77 86 76 167 }
+    NumberOfPointsInContactOrdered:{ 30 21 25 16 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:129
+    CellCenter:(44.1809,28.0072,0)
+
+CellRank:133
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:4
+    CellArea:7.35319
+    CellPerim:10.0093
+    NeighborCellsOrdered:{ 78 102 146 159 }
+    NumberOfPointsInContactOrdered:{ 32 25 32 21 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(16.6327,6.42175,0)
+
+CellRank:134
+    GrowthProgress:0.85
+    MembrGrowthProgress:119.219
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:7.21648
+    CellPerim:10.2918
+    NeighborCellsOrdered:{ 26 17 36 }
+    NumberOfPointsInContactOrdered:{ 32 25 26 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:128
+    CellCenter:(36.6263,43.0617,0)
+
+CellRank:135
+    GrowthProgress:0.85
+    MembrGrowthProgress:654.661
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.67188
+    CellPerim:7.96667
+    NeighborCellsOrdered:{ 66 138 154 45 198 56 }
+    NumberOfPointsInContactOrdered:{ 12 15 23 15 21 28 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(35.626,30.5534,0)
+
+CellRank:136
+    GrowthProgress:0.85
+    MembrGrowthProgress:832.121
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.84056
+    CellPerim:8.13527
+    NeighborCellsOrdered:{ 138 75 74 64 65 }
+    NumberOfPointsInContactOrdered:{ 17 22 28 14 30 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:111
+    CellCenter:(34.5456,25.1317,0)
+
+CellRank:137
+    GrowthProgress:0.85
+    MembrGrowthProgress:660.943
+    IsBoundrayCell:1
+    NumOfNeighbors:2
+    CellArea:6.20343
+    CellPerim:9.12065
+    NeighborCellsOrdered:{ 171 17 }
+    NumberOfPointsInContactOrdered:{ 33 44 0 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:116
+    CellCenter:(31.2826,45.6659,0)
+
+CellRank:138
+    GrowthProgress:0.85
+    MembrGrowthProgress:651.162
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.04975
+    CellPerim:8.37264
+    NeighborCellsOrdered:{ 75 136 65 154 135 66 }
+    NumberOfPointsInContactOrdered:{ 14 17 12 29 15 30 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:117
+    CellCenter:(35.4339,27.6621,0)
+
+CellRank:139
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.91914
+    CellPerim:8.93492
+    NeighborCellsOrdered:{ 6 144 5 158 1 211 }
+    NumberOfPointsInContactOrdered:{ 28 19 19 28 20 20 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(14.4338,38.9125,0)
+
+CellRank:140
+    GrowthProgress:0.85
+    MembrGrowthProgress:293.676
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:3.73591
+    CellPerim:7.93779
+    NeighborCellsOrdered:{ 6 13 14 145 204 }
+    NumberOfPointsInContactOrdered:{ 38 5 34 6 29 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(19.0439,39.1572,0)
+
+CellRank:141
+    GrowthProgress:0.85
+    MembrGrowthProgress:101.093
+    IsBoundrayCell:1
+    NumOfNeighbors:2
+    CellArea:6.75629
+    CellPerim:9.83555
+    NeighborCellsOrdered:{ 8 9 }
+    NumberOfPointsInContactOrdered:{ 44 32 0 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:124
+    CellCenter:(26.5412,45.7779,0)
+
+CellRank:142
+    GrowthProgress:0.85
+    MembrGrowthProgress:755.214
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.73663
+    CellPerim:8.31934
+    NeighborCellsOrdered:{ 161 191 70 69 116 60 }
+    NumberOfPointsInContactOrdered:{ 12 13 19 21 19 31 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:115
+    CellCenter:(17.8843,13.3874,0)
+
+CellRank:143
+    GrowthProgress:0.85
+    MembrGrowthProgress:267.73
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.6964
+    CellPerim:8.43704
+    NeighborCellsOrdered:{ 101 110 49 173 116 59 48 }
+    NumberOfPointsInContactOrdered:{ 21 9 6 18 22 8 32 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:116
+    CellCenter:(12.6719,14.3415,0)
+
+CellRank:144
+    GrowthProgress:0.85
+    MembrGrowthProgress:720.627
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.76849
+    CellPerim:8.20632
+    NeighborCellsOrdered:{ 139 6 13 193 12 5 }
+    NumberOfPointsInContactOrdered:{ 18 17 33 18 7 30 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:123
+    CellCenter:(15.4808,36.3513,0)
+
+CellRank:145
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:8
+    CellArea:4.61423
+    CellPerim:10.7196
+    NeighborCellsOrdered:{ 8 16 15 206 14 140 204 7 }
+    NumberOfPointsInContactOrdered:{ 18 6 35 14 5 5 23 28 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(22.7906,41.009,0)
+
+CellRank:146
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.66643
+    CellPerim:9.94092
+    NeighborCellsOrdered:{ 58 59 159 133 68 }
+    NumberOfPointsInContactOrdered:{ 6 20 21 32 48 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(13.8009,7.74263,0)
+
+CellRank:147
+    GrowthProgress:0.85
+    MembrGrowthProgress:827.143
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.3296
+    CellPerim:7.63196
+    NeighborCellsOrdered:{ 35 150 149 125 25 }
+    NumberOfPointsInContactOrdered:{ 21 22 24 23 23 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:113
+    CellCenter:(31.3426,38.9439,0)
+
+CellRank:148
+    GrowthProgress:0.85
+    MembrGrowthProgress:843.449
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.99213
+    CellPerim:8.20598
+    NeighborCellsOrdered:{ 30 100 21 103 31 }
+    NumberOfPointsInContactOrdered:{ 19 20 23 19 29 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:110
+    CellCenter:(18.4732,27.9339,0)
+
+CellRank:149
+    GrowthProgress:0.85
+    MembrGrowthProgress:482.331
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.7125
+    CellPerim:9.28805
+    NeighborCellsOrdered:{ 125 147 150 34 33 24 16 }
+    NumberOfPointsInContactOrdered:{ 14 24 20 13 14 39 4 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:128
+    CellCenter:(29.5457,37.4723,0)
+
+CellRank:150
+    GrowthProgress:0.85
+    MembrGrowthProgress:655.5
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.28002
+    CellPerim:7.71056
+    NeighborCellsOrdered:{ 149 147 35 199 34 }
+    NumberOfPointsInContactOrdered:{ 20 22 30 18 24 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(31.5576,36.3998,0)
+
+CellRank:151
+    GrowthProgress:0.85
+    MembrGrowthProgress:785.274
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.40967
+    CellPerim:7.75511
+    NeighborCellsOrdered:{ 168 184 104 55 54 }
+    NumberOfPointsInContactOrdered:{ 20 21 20 21 25 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:107
+    CellCenter:(29.0175,27.5545,0)
+
+CellRank:152
+    GrowthProgress:0.85
+    MembrGrowthProgress:236.962
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.91358
+    CellPerim:8.08952
+    NeighborCellsOrdered:{ 210 81 106 170 212 }
+    NumberOfPointsInContactOrdered:{ 13 25 21 18 35 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:112
+    CellCenter:(27.4409,8.9372,0)
+
+CellRank:153
+    GrowthProgress:0.85
+    MembrGrowthProgress:786.581
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.65403
+    CellPerim:8.14163
+    NeighborCellsOrdered:{ 181 93 92 183 85 108 }
+    NumberOfPointsInContactOrdered:{ 22 23 11 22 25 8 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(40.7709,20.6572,0)
+
+CellRank:154
+    GrowthProgress:0.85
+    MembrGrowthProgress:654.564
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.65435
+    CellPerim:7.97269
+    NeighborCellsOrdered:{ 45 135 138 65 55 }
+    NumberOfPointsInContactOrdered:{ 18 23 29 12 32 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(33.6404,29.195,0)
+
+CellRank:155
+    GrowthProgress:0.85
+    MembrGrowthProgress:602.084
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.04572
+    CellPerim:8.8776
+    NeighborCellsOrdered:{ 188 51 61 161 60 173 50 }
+    NumberOfPointsInContactOrdered:{ 18 5 12 21 22 8 31 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:117
+    CellCenter:(18.2772,17.3849,0)
+
+CellRank:156
+    GrowthProgress:0.85
+    MembrGrowthProgress:482.264
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.77897
+    CellPerim:8.23153
+    NeighborCellsOrdered:{ 31 128 43 184 168 42 }
+    NumberOfPointsInContactOrdered:{ 8 28 13 13 19 32 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:113
+    CellCenter:(23.8269,27.4037,0)
+
+CellRank:157
+    GrowthProgress:0.85
+    MembrGrowthProgress:368.036
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.56104
+    CellPerim:9.52901
+    NeighborCellsOrdered:{ 115 73 175 165 72 208 63 }
+    NumberOfPointsInContactOrdered:{ 13 21 8 26 23 11 25 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:127
+    CellCenter:(28.8178,19.3855,0)
+
+CellRank:158
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.42591
+    CellPerim:9.78168
+    NeighborCellsOrdered:{ 0 1 139 5 4 }
+    NumberOfPointsInContactOrdered:{ 42 30 28 28 5 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(11.685,38.8188,0)
+
+CellRank:159
+    GrowthProgress:0.85
+    MembrGrowthProgress:176.612
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.82249
+    CellPerim:8.72586
+    NeighborCellsOrdered:{ 200 78 133 146 59 69 }
+    NumberOfPointsInContactOrdered:{ 4 18 19 21 20 30 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(16.02,9.19874,0)
+
+CellRank:160
+    GrowthProgress:0.85
+    MembrGrowthProgress:481.978
+    IsBoundrayCell:0
+    NumOfNeighbors:8
+    CellArea:5.40622
+    CellPerim:8.94829
+    NeighborCellsOrdered:{ 85 176 75 66 67 167 76 86 }
+    NumberOfPointsInContactOrdered:{ 16 16 17 13 7 10 32 4 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:115
+    CellCenter:(39.9027,25.9627,0)
+
+CellRank:161
+    GrowthProgress:0.85
+    MembrGrowthProgress:756.01
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.88499
+    CellPerim:8.20017
+    NeighborCellsOrdered:{ 129 191 142 60 155 61 }
+    NumberOfPointsInContactOrdered:{ 15 23 12 13 22 24 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:109
+    CellCenter:(19.9156,15.5788,0)
+
+CellRank:162
+    GrowthProgress:0.85
+    MembrGrowthProgress:637.05
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.1707
+    CellPerim:8.64953
+    NeighborCellsOrdered:{ 19 29 112 39 38 28 126 }
+    NumberOfPointsInContactOrdered:{ 15 17 12 28 4 27 9 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:112
+    CellCenter:(11.1149,23.7178,0)
+
+CellRank:163
+    GrowthProgress:0.85
+    MembrGrowthProgress:120.146
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.48364
+    CellPerim:8.62434
+    NeighborCellsOrdered:{ 40 50 49 110 39 }
+    NumberOfPointsInContactOrdered:{ 22 24 21 17 37 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:121
+    CellCenter:(13.7515,19.6663,0)
+
+CellRank:164
+    GrowthProgress:0.85
+    MembrGrowthProgress:670.567
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:3.93695
+    CellPerim:7.96568
+    NeighborCellsOrdered:{ 182 36 46 199 35 }
+    NumberOfPointsInContactOrdered:{ 17 23 31 9 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(34.8762,37.0763,0)
+
+CellRank:165
+    GrowthProgress:0.85
+    MembrGrowthProgress:266.886
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.09408
+    CellPerim:8.8193
+    NeighborCellsOrdered:{ 157 175 82 189 205 72 }
+    NumberOfPointsInContactOrdered:{ 25 20 32 8 27 10 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:122
+    CellCenter:(29.5321,16.658,0)
+
+CellRank:166
+    GrowthProgress:0.85
+    MembrGrowthProgress:506.327
+    IsBoundrayCell:1
+    NumOfNeighbors:2
+    CellArea:6.36465
+    CellPerim:9.22842
+    NeighborCellsOrdered:{ 37 27 }
+    NumberOfPointsInContactOrdered:{ 36 43 0 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:38
+    CurrentActiveMembrNodes:119
+    CellCenter:(5.69006,18.3885,0)
+
+CellRank:167
+    GrowthProgress:0.85
+    MembrGrowthProgress:245.947
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.93722
+    CellPerim:8.54945
+    NeighborCellsOrdered:{ 113 77 132 76 160 67 }
+    NumberOfPointsInContactOrdered:{ 5 27 16 20 10 35 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:113
+    CellCenter:(41.2792,28.7741,0)
+
+CellRank:168
+    GrowthProgress:0.85
+    MembrGrowthProgress:161.739
+    IsBoundrayCell:0
+    NumOfNeighbors:8
+    CellArea:6.00251
+    CellPerim:10.1138
+    NeighborCellsOrdered:{ 202 122 42 156 184 151 54 53 }
+    NumberOfPointsInContactOrdered:{ 22 4 8 20 24 20 5 28 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:131
+    CellCenter:(26.1981,26.1433,0)
+
+CellRank:169
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.10409
+    CellPerim:9.48955
+    NeighborCellsOrdered:{ 204 6 211 222 2 7 }
+    NumberOfPointsInContactOrdered:{ 40 9 33 16 25 14 0 0 0 0 }
+    CurrentActiveIntnlNode:38
+    CurrentActiveMembrNodes:137
+    CellCenter:(19.0444,42.6581,0)
+
+CellRank:170
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.85381
+    CellPerim:10.3113
+    NeighborCellsOrdered:{ 79 200 80 106 152 212 88 }
+    NumberOfPointsInContactOrdered:{ 23 7 30 15 19 18 22 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(24.5999,8.58498,0)
+
+CellRank:171
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.15763
+    CellPerim:10.0424
+    NeighborCellsOrdered:{ 9 137 17 25 125 16 }
+    NumberOfPointsInContactOrdered:{ 47 33 10 11 28 5 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(29.8412,43.3159,0)
+
+CellRank:172
+    GrowthProgress:0.85
+    MembrGrowthProgress:440.21
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.11535
+    CellPerim:8.2717
+    NeighborCellsOrdered:{ 175 117 84 92 123 83 }
+    NumberOfPointsInContactOrdered:{ 17 21 21 12 13 26 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:110
+    CellCenter:(34.9019,18.0845,0)
+
+CellRank:173
+    GrowthProgress:0.85
+    MembrGrowthProgress:682.003
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.00893
+    CellPerim:8.34404
+    NeighborCellsOrdered:{ 50 155 60 116 143 49 }
+    NumberOfPointsInContactOrdered:{ 5 7 28 18 18 38 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(14.8346,15.5646,0)
+
+CellRank:174
+    GrowthProgress:0.85
+    MembrGrowthProgress:284.77
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.32545
+    CellPerim:7.74769
+    NeighborCellsOrdered:{ 111 22 103 32 219 }
+    NumberOfPointsInContactOrdered:{ 14 31 20 20 26 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:111
+    CellCenter:(21.4594,33.1362,0)
+
+CellRank:175
+    GrowthProgress:0.85
+    MembrGrowthProgress:223.883
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.81388
+    CellPerim:9.02361
+    NeighborCellsOrdered:{ 117 172 83 82 165 157 73 }
+    NumberOfPointsInContactOrdered:{ 11 17 14 19 21 8 31 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:121
+    CellCenter:(31.9853,17.893,0)
+
+CellRank:176
+    GrowthProgress:0.85
+    MembrGrowthProgress:775.952
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.92449
+    CellPerim:8.4551
+    NeighborCellsOrdered:{ 160 85 183 74 75 }
+    NumberOfPointsInContactOrdered:{ 16 19 25 22 28 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:110
+    CellCenter:(38.1407,23.6893,0)
+
+CellRank:177
+    GrowthProgress:0.85
+    MembrGrowthProgress:138.836
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.01125
+    CellPerim:9.64043
+    NeighborCellsOrdered:{ 10 178 3 119 19 }
+    NumberOfPointsInContactOrdered:{ 42 37 10 32 12 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:133
+    CellCenter:(7.87628,29.2037,0)
+
+CellRank:178
+    GrowthProgress:0.85
+    MembrGrowthProgress:191.685
+    IsBoundrayCell:1
+    NumOfNeighbors:2
+    CellArea:6.19089
+    CellPerim:9.06018
+    NeighborCellsOrdered:{ 177 3 }
+    NumberOfPointsInContactOrdered:{ 40 41 0 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:118
+    CellCenter:(6.25402,31.3164,0)
+
+CellRank:179
+    GrowthProgress:0.85
+    MembrGrowthProgress:83.8054
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:6.7073
+    CellPerim:9.47524
+    NeighborCellsOrdered:{ 101 48 58 }
+    NumberOfPointsInContactOrdered:{ 28 33 31 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:124
+    CellCenter:(8.8669,12.5653,0)
+
+CellRank:180
+    GrowthProgress:0.85
+    MembrGrowthProgress:177.26
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.78066
+    CellPerim:8.2028
+    NeighborCellsOrdered:{ 34 44 104 43 214 33 }
+    NumberOfPointsInContactOrdered:{ 17 16 20 13 21 27 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:114
+    CellCenter:(28.4017,32.2375,0)
+
+CellRank:181
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:4
+    CellArea:6.49717
+    CellPerim:9.58496
+    NeighborCellsOrdered:{ 93 153 108 94 }
+    NumberOfPointsInContactOrdered:{ 34 23 39 36 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(43.1187,19.1743,0)
+
+CellRank:182
+    GrowthProgress:0.85
+    MembrGrowthProgress:705.651
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.26484
+    CellPerim:7.60492
+    NeighborCellsOrdered:{ 36 164 35 25 26 }
+    NumberOfPointsInContactOrdered:{ 27 17 22 16 29 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:111
+    CellCenter:(34.642,39.785,0)
+
+CellRank:183
+    GrowthProgress:0.85
+    MembrGrowthProgress:698.053
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.8484
+    CellPerim:8.31086
+    NeighborCellsOrdered:{ 74 176 85 153 92 84 }
+    NumberOfPointsInContactOrdered:{ 8 25 16 22 10 30 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:111
+    CellCenter:(38.3321,21.5048,0)
+
+CellRank:184
+    GrowthProgress:0.85
+    MembrGrowthProgress:689.413
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.586
+    CellPerim:7.93588
+    NeighborCellsOrdered:{ 104 151 168 156 43 }
+    NumberOfPointsInContactOrdered:{ 16 22 23 13 34 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:108
+    CellCenter:(26.6409,28.4293,0)
+
+CellRank:185
+    GrowthProgress:0.85
+    MembrGrowthProgress:252.641
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.40466
+    CellPerim:9.12852
+    NeighborCellsOrdered:{ 119 11 12 193 120 100 20 }
+    NumberOfPointsInContactOrdered:{ 8 25 4 6 26 16 32 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:117
+    CellCenter:(13.5304,30.0285,0)
+
+CellRank:186
+    GrowthProgress:0.85
+    MembrGrowthProgress:604.292
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.63831
+    CellPerim:8.37385
+    NeighborCellsOrdered:{ 72 71 129 61 51 62 }
+    NumberOfPointsInContactOrdered:{ 17 19 11 25 11 27 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:110
+    CellCenter:(24.097,17.0782,0)
+
+CellRank:187
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:6.38391
+    CellPerim:10.8307
+    NeighborCellsOrdered:{ 197 195 95 }
+    NumberOfPointsInContactOrdered:{ 14 31 57 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(27.7769,-0.674907,0)
+
+CellRank:188
+    GrowthProgress:0.85
+    MembrGrowthProgress:293.078
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:5.66299
+    CellPerim:8.89409
+    NeighborCellsOrdered:{ 155 50 40 201 105 51 }
+    NumberOfPointsInContactOrdered:{ 20 20 11 6 29 29 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:115
+    CellCenter:(18.782,19.8789,0)
+
+CellRank:189
+    GrowthProgress:0.85
+    MembrGrowthProgress:243.125
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.1137
+    CellPerim:9.04656
+    NeighborCellsOrdered:{ 81 106 71 205 165 82 196 }
+    NumberOfPointsInContactOrdered:{ 33 8 12 30 8 10 17 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:118
+    CellCenter:(28.7941,13.2627,0)
+
+CellRank:190
+    GrowthProgress:0.85
+    MembrGrowthProgress:706.162
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.36413
+    CellPerim:7.61743
+    NeighborCellsOrdered:{ 22 21 120 193 13 }
+    NumberOfPointsInContactOrdered:{ 28 12 15 29 23 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:107
+    CellCenter:(17.1207,33.3718,0)
+
+CellRank:191
+    GrowthProgress:0.85
+    MembrGrowthProgress:688.273
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.51985
+    CellPerim:7.89932
+    NeighborCellsOrdered:{ 142 161 129 80 70 }
+    NumberOfPointsInContactOrdered:{ 13 23 25 19 28 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:108
+    CellCenter:(20.9184,13.4194,0)
+
+CellRank:192
+    GrowthProgress:0.85
+    MembrGrowthProgress:302.972
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.60557
+    CellPerim:8.53321
+    NeighborCellsOrdered:{ 118 98 218 99 217 }
+    NumberOfPointsInContactOrdered:{ 12 40 8 25 30 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:115
+    CellCenter:(40.1762,12.6504,0)
+
+CellRank:193
+    GrowthProgress:0.85
+    MembrGrowthProgress:551.89
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:3.97832
+    CellPerim:8.28319
+    NeighborCellsOrdered:{ 144 13 190 120 185 12 }
+    NumberOfPointsInContactOrdered:{ 17 4 26 22 6 40 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:115
+    CellCenter:(15.0836,33.4152,0)
+
+CellRank:194
+    GrowthProgress:0.85
+    MembrGrowthProgress:480.875
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:3.90247
+    CellPerim:7.76209
+    NeighborCellsOrdered:{ 16 24 23 206 15 }
+    NumberOfPointsInContactOrdered:{ 22 24 29 8 28 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:111
+    CellCenter:(25.4907,38.7968,0)
+
+CellRank:195
+    GrowthProgress:0.85
+    MembrGrowthProgress:17.101
+    IsBoundrayCell:1
+    NumOfNeighbors:4
+    CellArea:6.3903
+    CellPerim:9.50723
+    NeighborCellsOrdered:{ 220 187 95 87 }
+    NumberOfPointsInContactOrdered:{ 38 32 20 11 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:124
+    CellCenter:(24.7179,-0.0925703,0)
+
+CellRank:196
+    GrowthProgress:0.85
+    MembrGrowthProgress:52.6418
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.85127
+    CellPerim:9.99949
+    NeighborCellsOrdered:{ 83 91 121 210 81 189 82 }
+    NumberOfPointsInContactOrdered:{ 6 26 18 16 12 18 33 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:129
+    CellCenter:(31.6066,12.5296,0)
+
+CellRank:197
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:1
+    NumOfNeighbors:5
+    CellArea:8.08618
+    CellPerim:12.0964
+    NeighborCellsOrdered:{ 130 187 95 89 96 }
+    NumberOfPointsInContactOrdered:{ 18 14 4 14 41 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(32.0245,1.45388,0)
+
+CellRank:198
+    GrowthProgress:0.85
+    MembrGrowthProgress:626.084
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.11806
+    CellPerim:7.56822
+    NeighborCellsOrdered:{ 47 56 135 45 46 }
+    NumberOfPointsInContactOrdered:{ 17 20 21 20 26 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:104
+    CellCenter:(35.8835,33.0146,0)
+
+CellRank:199
+    GrowthProgress:0.85
+    MembrGrowthProgress:248.882
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:4.78138
+    CellPerim:8.20995
+    NeighborCellsOrdered:{ 44 34 150 35 164 46 45 }
+    NumberOfPointsInContactOrdered:{ 15 16 18 10 9 15 30 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:113
+    CellCenter:(32.8789,34.2612,0)
+
+CellRank:200
+    GrowthProgress:0.85
+    MembrGrowthProgress:199.879
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:5.16716
+    CellPerim:9.50771
+    NeighborCellsOrdered:{ 78 159 69 70 80 170 79 }
+    NumberOfPointsInContactOrdered:{ 27 4 13 27 20 7 23 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:121
+    CellCenter:(20.3365,9.70728,0)
+
+CellRank:201
+    GrowthProgress:0.85
+    MembrGrowthProgress:581.326
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.42934
+    CellPerim:8.0696
+    NeighborCellsOrdered:{ 112 30 105 188 40 }
+    NumberOfPointsInContactOrdered:{ 21 23 25 6 35 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:110
+    CellCenter:(16.8365,22.8325,0)
+
+CellRank:202
+    GrowthProgress:0.85
+    MembrGrowthProgress:547.569
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.68857
+    CellPerim:8.10709
+    NeighborCellsOrdered:{ 168 53 63 208 52 122 }
+    NumberOfPointsInContactOrdered:{ 22 18 11 20 5 33 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:109
+    CellCenter:(25.4927,23.6064,0)
+
+CellRank:203
+    GrowthProgress:0.85
+    MembrGrowthProgress:547.727
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:5.1723
+    CellPerim:8.44412
+    NeighborCellsOrdered:{ 130 96 90 121 97 }
+    NumberOfPointsInContactOrdered:{ 36 17 31 7 19 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:110
+    CellCenter:(34.0378,6.5738,0)
+
+CellRank:204
+    GrowthProgress:0.85
+    MembrGrowthProgress:501.065
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:3.86866
+    CellPerim:7.90429
+    NeighborCellsOrdered:{ 169 7 145 140 6 }
+    NumberOfPointsInContactOrdered:{ 34 19 24 30 4 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:111
+    CellCenter:(20.5496,41.0554,0)
+
+CellRank:205
+    GrowthProgress:0.85
+    MembrGrowthProgress:510.256
+    IsBoundrayCell:0
+    NumOfNeighbors:4
+    CellArea:4.65951
+    CellPerim:7.91041
+    NeighborCellsOrdered:{ 165 189 71 72 }
+    NumberOfPointsInContactOrdered:{ 27 31 24 28 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:110
+    CellCenter:(27.7051,15.1936,0)
+
+CellRank:206
+    GrowthProgress:0.85
+    MembrGrowthProgress:469.933
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.30469
+    CellPerim:7.7772
+    NeighborCellsOrdered:{ 14 145 15 194 23 111 }
+    NumberOfPointsInContactOrdered:{ 26 14 23 9 15 22 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:109
+    CellCenter:(22.2869,38.2019,0)
+
+CellRank:207
+    GrowthProgress:0.567744
+    MembrGrowthProgress:37.738
+    IsBoundrayCell:1
+    NumOfNeighbors:2
+    CellArea:5.71088
+    CellPerim:8.87474
+    NeighborCellsOrdered:{ 222 211 }
+    NumberOfPointsInContactOrdered:{ 40 40 0 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:31
+    CurrentActiveMembrNodes:117
+    CellCenter:(15.1551,45.8528,0)
+
+CellRank:208
+    GrowthProgress:0.85
+    MembrGrowthProgress:471.357
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.21514
+    CellPerim:8.19586
+    NeighborCellsOrdered:{ 157 72 62 52 202 63 }
+    NumberOfPointsInContactOrdered:{ 10 6 26 15 20 32 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:109
+    CellCenter:(25.9115,20.9054,0)
+
+CellRank:209
+    GrowthProgress:0.711059
+    MembrGrowthProgress:184.982
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.03743
+    CellPerim:7.65922
+    NeighborCellsOrdered:{ 32 214 33 215 219 }
+    NumberOfPointsInContactOrdered:{ 15 27 10 25 32 0 0 0 0 0 }
+    CurrentActiveIntnlNode:34
+    CurrentActiveMembrNodes:109
+    CellCenter:(25.2094,33.7309,0)
+
+CellRank:210
+    GrowthProgress:0.85
+    MembrGrowthProgress:108.905
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:6.91668
+    CellPerim:9.8761
+    NeighborCellsOrdered:{ 152 81 196 121 90 212 }
+    NumberOfPointsInContactOrdered:{ 15 26 16 26 33 10 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:126
+    CellCenter:(30.4939,9.21274,0)
+
+CellRank:211
+    GrowthProgress:0.928522
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:14.5146
+    CellPerim:14.0928
+    NeighborCellsOrdered:{ 207 222 169 6 139 1 }
+    NumberOfPointsInContactOrdered:{ 28 12 26 21 16 34 0 0 0 0 }
+    CurrentActiveIntnlNode:39
+    CurrentActiveMembrNodes:139
+    CellCenter:(15.6488,42.3959,0)
+
+CellRank:212
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:7
+    CellArea:6.59609
+    CellPerim:10.1037
+    NeighborCellsOrdered:{ 210 90 89 213 88 170 152 }
+    NumberOfPointsInContactOrdered:{ 10 13 20 27 11 18 35 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(27.7871,6.65483,0)
+
+CellRank:213
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:4
+    CellArea:6.87397
+    CellPerim:10.3305
+    NeighborCellsOrdered:{ 89 95 88 212 }
+    NumberOfPointsInContactOrdered:{ 46 36 24 28 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:134
+    CellCenter:(27.4128,3.74363,0)
+
+CellRank:214
+    GrowthProgress:0.85
+    MembrGrowthProgress:284.634
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.21322
+    CellPerim:7.97006
+    NeighborCellsOrdered:{ 209 33 180 43 32 }
+    NumberOfPointsInContactOrdered:{ 27 11 21 30 17 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:106
+    CellCenter:(25.9575,32.0131,0)
+
+CellRank:215
+    GrowthProgress:0.85
+    MembrGrowthProgress:282.12
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:4.15224
+    CellPerim:7.70694
+    NeighborCellsOrdered:{ 24 33 209 219 23 }
+    NumberOfPointsInContactOrdered:{ 21 32 24 5 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:113
+    CellCenter:(26.3041,35.8833,0)
+
+CellRank:216
+    GrowthProgress:0.85
+    MembrGrowthProgress:215.303
+    IsBoundrayCell:1
+    NumOfNeighbors:2
+    CellArea:6.13612
+    CellPerim:9.1848
+    NeighborCellsOrdered:{ 94 217 }
+    NumberOfPointsInContactOrdered:{ 45 42 0 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:119
+    CellCenter:(44.5638,14.2574,0)
+
+CellRank:217
+    GrowthProgress:0.85
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:5
+    CellArea:6.11642
+    CellPerim:9.85244
+    NeighborCellsOrdered:{ 118 94 216 99 192 }
+    NumberOfPointsInContactOrdered:{ 30 5 40 30 31 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:136
+    CellCenter:(42.1531,13.6822,0)
+
+CellRank:218
+    GrowthProgress:0.85
+    MembrGrowthProgress:47.1771
+    IsBoundrayCell:1
+    NumOfNeighbors:4
+    CellArea:6.28479
+    CellPerim:9.97771
+    NeighborCellsOrdered:{ 99 109 98 192 }
+    NumberOfPointsInContactOrdered:{ 43 44 5 8 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:128
+    CellCenter:(40.7424,8.6701,0)
+
+CellRank:219
+    GrowthProgress:0.85
+    MembrGrowthProgress:232.312
+    IsBoundrayCell:0
+    NumOfNeighbors:6
+    CellArea:4.09138
+    CellPerim:7.71115
+    NeighborCellsOrdered:{ 32 174 111 23 215 209 }
+    NumberOfPointsInContactOrdered:{ 8 26 19 18 5 32 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:108
+    CellCenter:(23.3541,34.5659,0)
+
+CellRank:220
+    GrowthProgress:0.85
+    MembrGrowthProgress:23.6483
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:6.50724
+    CellPerim:9.41682
+    NeighborCellsOrdered:{ 195 221 87 }
+    NumberOfPointsInContactOrdered:{ 38 27 33 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:36
+    CurrentActiveMembrNodes:125
+    CellCenter:(22.1355,0.895968,0)
+
+CellRank:221
+    GrowthProgress:0.806416
+    MembrGrowthProgress:24.6545
+    IsBoundrayCell:1
+    NumOfNeighbors:3
+    CellArea:6.60622
+    CellPerim:9.46241
+    NeighborCellsOrdered:{ 220 102 87 }
+    NumberOfPointsInContactOrdered:{ 26 43 31 0 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:37
+    CurrentActiveMembrNodes:125
+    CellCenter:(20.1828,3.36977,0)
+
+CellRank:222
+    GrowthProgress:0.480242
+    MembrGrowthProgress:0
+    IsBoundrayCell:0
+    NumOfNeighbors:4
+    CellArea:5.01469
+    CellPerim:8.43682
+    NeighborCellsOrdered:{ 207 2 169 211 }
+    NumberOfPointsInContactOrdered:{ 40 42 16 16 0 0 0 0 0 0 }
+    CurrentActiveIntnlNode:29
+    CurrentActiveMembrNodes:120
+    CellCenter:(17.5414,45.4976,0)
+
