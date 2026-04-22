@@ -128,10 +128,18 @@ vector< vector<double> > Signal_Calculator ( vector< vector<double> > locX , vec
     tissue.Cal_AreaOfTissue() ;
     tissue.AssignVariables() ; 
     tissue.Cal_TissueCenter2() ;
+    tissue.Cal_TissueCenter2() ;
+std::cout << "After Cal_TissueCenter2, tissueCenter size = "
+          << tissue.tissueCenter.size() << std::endl;
     if ( abs(index - 1.0 ) < 0.001 ) 
-    {
-    	tCentX0 = tissue.tissueCenter.at(0) ;
+{
+    std::cout << "tissueCenter size = " << tissue.tissueCenter.size() << std::endl;
+    if (tissue.tissueCenter.empty()) {
+        std::cout << "ERROR: tissue.tissueCenter is empty right after Cal_TissueCenter2()" << std::endl;
+    } else {
+        tCentX0 = tissue.tissueCenter.at(0);
     }
+}
     tissue.CombineTissueCenterX (1.0 , 0.0 , tCentX0) ;
     tissue.Cal_TissueDimensions() ;
 
