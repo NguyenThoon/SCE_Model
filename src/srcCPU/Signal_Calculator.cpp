@@ -127,12 +127,17 @@ vector< vector<double> > Signal_Calculator ( vector< vector<double> > locX , vec
     tissue.Find_IntercellularMeshConnection () ;
     tissue.Cal_AreaOfTissue() ;
     tissue.AssignVariables() ; 
-    tissue.Cal_TissueCenter2() ;
-    tissue.Cal_TissueCenter2() ;
-std::cout << "After Cal_TissueCenter2, tissueCenter size = "
-          << tissue.tissueCenter.size() << std::endl;
-    if ( abs(index - 1.0 ) < 0.001 ) 
-{
+    tissue.Cal_TissueCenter2();
+cout << "tissueCenter size = " << tissue.tissueCenter.size() << endl;
+
+if (abs(index - 1.0) < 0.001) {
+    if (tissue.tissueCenter.empty()) {
+        cout << "ERROR: tissueCenter is empty" << endl;
+        isNan = true;
+        return oldConcentrations;
+    }
+    tCentX0 = tissue.tissueCenter[0];
+}
     std::cout << "tissueCenter size = " << tissue.tissueCenter.size() << std::endl;
     if (tissue.tissueCenter.empty()) {
         std::cout << "ERROR: tissue.tissueCenter is empty right after Cal_TissueCenter2()" << std::endl;
