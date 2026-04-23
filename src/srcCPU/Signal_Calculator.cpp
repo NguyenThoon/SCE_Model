@@ -118,16 +118,41 @@ vector< vector<double> > Signal_Calculator ( vector< vector<double> > locX , vec
     tissue.Cal_AllCellConnections() ;
  // tissue.Print_VeritcesSize() ;
      
-    tissue.ParaViewVertices() ;
-    tissue.ParaViewTissue () ;
-    tissue.ParaViewInitialConfiguration() ;
+    cout << "DEBUG: before ParaViewVertices" << endl;
+sgnlCalculator << "DEBUG: before ParaViewVertices" << endl;
+tissue.ParaViewVertices() ;
+
+cout << "DEBUG: before ParaViewTissue" << endl;
+sgnlCalculator << "DEBUG: before ParaViewTissue" << endl;
+tissue.ParaViewTissue () ;
+
+cout << "DEBUG: before ParaViewInitialConfiguration" << endl;
+sgnlCalculator << "DEBUG: before ParaViewInitialConfiguration" << endl;
+tissue.ParaViewInitialConfiguration() ;
      
     //Genetating meshes
-    tissue.Find_AllMeshes () ;
-    tissue.Find_IntercellularMeshConnection () ;
-    tissue.Cal_AreaOfTissue() ;
-    tissue.AssignVariables() ; 
-    tissue.Cal_TissueCenter2();
+    cout << "DEBUG: before Find_AllMeshes" << endl;
+sgnlCalculator << "DEBUG: before Find_AllMeshes" << endl;
+tissue.Find_AllMeshes () ;
+
+cout << "DEBUG: before Find_IntercellularMeshConnection" << endl;
+sgnlCalculator << "DEBUG: before Find_IntercellularMeshConnection" << endl;
+tissue.Find_IntercellularMeshConnection () ;
+
+cout << "DEBUG: before Cal_AreaOfTissue" << endl;
+sgnlCalculator << "DEBUG: before Cal_AreaOfTissue" << endl;
+tissue.Cal_AreaOfTissue() ;
+
+cout << "DEBUG: before AssignVariables" << endl;
+sgnlCalculator << "DEBUG: before AssignVariables" << endl;
+tissue.AssignVariables() ;
+
+cout << "DEBUG: before Cal_TissueCenter2" << endl;
+sgnlCalculator << "DEBUG: before Cal_TissueCenter2" << endl;
+tissue.Cal_TissueCenter2();
+
+cout << "DEBUG: after Cal_TissueCenter2" << endl;
+sgnlCalculator << "DEBUG: after Cal_TissueCenter2" << endl;
 cout << "DEBUG: tissueCenter size = " << tissue.tissueCenter.size() << endl;
 sgnlCalculator << "DEBUG: tissueCenter size = " << tissue.tissueCenter.size() << endl;
 
